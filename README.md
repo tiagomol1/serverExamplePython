@@ -1,3 +1,7 @@
-# serverExamplePython
+# Server: PYTHON | NODE
 
-Feito na faculdade de Eng. de Software
+Exemplo de servidor em Python e em Node.
+
+Matéria: Redes e Computadores. <br/>
+Curso: Engenharia de Software. <br/>
+Instituição: (PUC) Católica de Santa Catarina
